@@ -1,0 +1,6 @@
+[submodule "project-symfony5ApiPlatforme"]
+	path = project-symfony5ApiPlatforme
+	url = https://github.com/abrahamibo/project-symfony5ApiPlatforme.git
+[submodule "project-nextjs"]
+	path = project-nextjs
+	url = https://github.com/abrahamibo/project-nextjs.git
